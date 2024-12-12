@@ -7,7 +7,6 @@ public class Main {
 
         Punto coordinate = new Punto(45369,647382);
 
-
         System.out.println("Le coordinate della x = "+ coordinate.x()+ " Y = "+ coordinate.y());
 
     }
